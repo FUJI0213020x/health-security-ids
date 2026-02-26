@@ -11,6 +11,7 @@ __pycache__/
 # ==========================
 logs/
 *.log
+!sample_access.log   # ← 追加（サンプルだけは公開する）
 
 # ==========================
 # Environment variables
